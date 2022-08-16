@@ -5,6 +5,6 @@
         Say,
         Touch,
         Give,
-        Leave,
+        Leave
     }
 }
